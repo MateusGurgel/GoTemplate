@@ -1,4 +1,4 @@
-package userRepository
+package infra
 
 import (
 	"goTemplate/infra/database"
